@@ -20,3 +20,29 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+Key Learnings from the Project
+
+Created a custom Calendar Visual using a matrix table, enabling flexible date-based analysis for multiple business scenarios. 
+
+Studied hotel cancellation policies and observed that most hotels allow free cancellation only if it is made at least three months prior to the booking date. Beyond that period, cancellation charges typically range from 60% to 90% of the booking cost.
+
+Mastered bookmarks and selection features in Power BI to enhance interactivity—used for page navigation, implementing a “clear filter” button, and creating a website-like navigation experience. 
+
+Applied a consistent color palette across the dashboard for improved aesthetics and brand alignment.
+
+Key Insights from the Dashboard
+
+Mumbai recorded the highest revenue (₹669M), followed by Bangalore, Hyderabad, and Delhi.
+
+AtliQ Exotica outperformed all other property types, achieving ₹320M revenue, an average rating of 3.62, 57% occupancy, and a 24.4% cancellation rate.
+
+AtliQ Bay achieved the highest occupancy rate at 66%.
+
+Week 24 saw the highest weekly revenue at ₹139.6M.
+
+Delhi ranked highest in both occupancy and guest ratings, followed by Hyderabad, Mumbai, and Bangalore.
+
+Cancellations resulted in a revenue loss of approximately ₹298M.
+
+Elite-type rooms had the highest number of bookings but also recorded the highest cancellation rate.
