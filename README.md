@@ -5,9 +5,9 @@ As part of the codebasics resume challenge, I have worked on this analysis proje
 
 Link to the [Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)
 
-Link to Interactive Dashboard
+Link to [Interactive Dashboard](https://app.powerbi.com/viewr=eyJrIjoiNGViYmJmY2ItMjgyYi00M2EwLTk1ZTktMTgwNzgzNjcyMWI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to Presentation Video
+Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
 
 Problem statement
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
