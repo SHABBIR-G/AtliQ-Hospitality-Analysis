@@ -21,7 +21,7 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-Key Learnings from the Project
+## Key Learnings from the Project
 
 Created a custom Calendar Visual using a matrix table, enabling flexible date-based analysis for multiple business scenarios. 
 
@@ -31,7 +31,7 @@ Mastered bookmarks and selection features in Power BI to enhance interactivityâ€
 
 Applied a consistent color palette across the dashboard for improved aesthetics and brand alignment.
 
-Key Insights from the Dashboard
+## Key Insights from the Dashboard
 
 Mumbai recorded the highest revenue (â‚¹669M), followed by Bangalore, Hyderabad, and Delhi.
 
