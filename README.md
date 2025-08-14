@@ -5,7 +5,7 @@ As part of the codebasics resume challenge, I have worked on this analysis proje
 
 Link to the [Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)
 
-Link to [Interactive Dashboard](https://app.powerbi.com/viewr=eyJrIjoiNGViYmJmY2ItMjgyYi00M2EwLTk1ZTktMTgwNzgzNjcyMWI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGViYmJmY2ItMjgyYi00M2EwLTk1ZTktMTgwNzgzNjcyMWI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
 
